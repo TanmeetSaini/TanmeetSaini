@@ -6,5 +6,6 @@ Last year I worked as an NLP Research Intern at UIC, where I was part of a  smal
 
 Outside of class I spend most of my time working on projects and learning new  technologies. Right now I'm expanding my skills into front-end development  while continuing to work on creating meaningful code.
 
-- **[UIC Campus Navigation](https://github.com/tanmeetsaini/uic-campus-navigation)**  
+## Projects
+**[UIC Campus Navigation](https://github.com/tanmeetsaini/uic-campus-navigation)**  
   C++ program that finds efficient routes between campus locations using graph algorithms.
