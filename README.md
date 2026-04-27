@@ -9,3 +9,6 @@ Outside of class I spend most of my time working on projects and learning new  t
 ## Projects
 **[UIC Campus Navigation](https://github.com/tanmeetsaini/uic-campus-navigation)**  
   C++ program that finds efficient routes between campus locations using graph algorithms.
+
+## Video Demo
+https://drive.google.com/file/d/1FyizIpGMIbHiXkgjhlAFwMezMKkB1s5k/view?usp=sharing
